@@ -1,0 +1,150 @@
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\roslyn\csc.exe
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\roslyn\System.Collections.Immutable.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\roslyn\vbc.exe
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\roslyn\VBCSCompiler.exe
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\roslyn\VBCSCompiler.exe.config
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\SpongeCity.Assess.Web.dll.config
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\SpongeCity.Assess.Web.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\SpongeCity.Assess.Web.pdb
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Antlr3.Runtime.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\EntityFramework.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\EntityFramework.SqlServer.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Security.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Security.Google.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Web.Infrastructure.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Newtonsoft.Json.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Owin.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\System.Web.Helpers.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\System.Web.Mvc.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\System.Web.Optimization.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\System.Web.Razor.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\System.Web.WebPages.Deployment.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\System.Web.WebPages.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\System.Web.WebPages.Razor.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\WebGrease.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\System.Web.Helpers.xml
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\System.Web.Mvc.xml
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\System.Web.Optimization.xml
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\System.Web.Razor.xml
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\System.Web.WebPages.xml
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\System.Web.WebPages.Deployment.xml
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\System.Web.WebPages.Razor.xml
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Antlr3.Runtime.pdb
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Newtonsoft.Json.xml
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\EntityFramework.xml
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\EntityFramework.SqlServer.xml
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.xml
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Security.xml
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Security.Google.xml
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\obj\Debug\SpongeCity.Assess.Web.csprojResolveAssemblyReference.cache
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\obj\Debug\SpongeCity.Assess.Web.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\obj\Debug\SpongeCity.Assess.Web.pdb
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\SpongeCity.Asses.BLL.dll
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\SpongeCityAsses.Model.dll
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\SpongeCity.Assess.DAL.dll
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\SpongeCity.Asses.BLL.pdb
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\SpongeCityAsses.Model.pdb
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.Web\bin\SpongeCity.Assess.DAL.pdb
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\roslyn\csc.exe
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\roslyn\vbc.exe
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\roslyn\VBCSCompiler.exe
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\SpongeCity.Assess.Web.dll.config
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\SpongeCity.Assess.Web.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\SpongeCity.Assess.Web.pdb
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Antlr3.Runtime.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\EntityFramework.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\EntityFramework.SqlServer.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Security.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Newtonsoft.Json.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Owin.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\SpongeCity.Asses.BLL.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\SpongeCityAsses.Model.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\System.Web.Helpers.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\System.Web.Mvc.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\System.Web.Optimization.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\System.Web.Razor.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\System.Web.WebPages.Deployment.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\System.Web.WebPages.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\System.Web.WebPages.Razor.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\WebGrease.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\SpongeCity.Assess.DAL.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\SpongeCity.Asses.BLL.pdb
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\SpongeCityAsses.Model.pdb
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\System.Web.Helpers.xml
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\System.Web.Mvc.xml
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\System.Web.Optimization.xml
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\System.Web.Razor.xml
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\System.Web.WebPages.xml
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\System.Web.WebPages.Deployment.xml
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\System.Web.WebPages.Razor.xml
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Antlr3.Runtime.pdb
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Newtonsoft.Json.xml
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\EntityFramework.xml
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\EntityFramework.SqlServer.xml
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.xml
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Security.xml
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\bin\SpongeCity.Assess.DAL.pdb
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\obj\Debug\SpongeCity.Assess.Web.csprojResolveAssemblyReference.cache
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\obj\Debug\SpongeCity.Assess.Web.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.Web\obj\Debug\SpongeCity.Assess.Web.pdb

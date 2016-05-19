@@ -1,0 +1,71 @@
+﻿<div id="auto_chart_3" style="width: 100%; height: 270px; position: relative; background-color: transparent;" _echarts_instance_="ec_1463499079893"></div>
+<script type="text/javascript">
+// 基于准备好的dom，初始化echarts实例
+myChart_auto_chart_3 = echarts.init(document.getElementById('auto_chart_3'));
+
+// 指定图表的配置项和数据
+var option = {
+title : {
+text : ' ',
+},
+tooltip : {
+trigger: 'axis',
+formatter : function (params) {
+if(params[0]==null){
+return (params.data[0].cast);
+}
+output = params[0].name + '<br/>';
+for(var i=0;i<params.length;i++){
+output += params[i].seriesName + " : " + params[i].value[1] + params[i].value[2] +'<br/>';
+}
+return output;
+}
+},
+dataZoom: {
+show: true,
+start : 0,
+orient : 'horizontal'
+},
+legend : {
+data : ['进水量','出水量','削减率',],
+top : 20 ,
+
+},
+xAxis : [
+{
+type : 'category',
+data : ['2015/04/01','2015/08/02','2015/08/13','2015/08/25','2015/09/03','2015/09/04','2015/09/09','2015/09/10','2015/09/11','2016/02/01','2016/04/05','2016/04/15',],
+
+},
+],
+yAxis : [
+{
+type : 'value' ,
+name : '流量(m³)' ,
+axisLabel: {
+formatter : '{value} '
+},
+
+},
+{ type : 'value' ,
+name : '削减率(%)' ,
+},
+],
+series : [{
+name: '进水量',
+type: 'bar',
+data: [[0,74992.72,'m³'],[1,158452.36,'m³'],[2,12700.38,'m³'],[3,26610.32,'m³'],[4,33262.9,'m³'],[5,8466.92,'m³'],[6,27215.1,'m³'],[7,82250.08,'m³'],[8,73178.38,'m³'],[9,16329.06,'m³'],[10,15119.5,'m³'],[11,60478,'m³'],],
+},{
+name: '出水量',
+type: 'bar',
+data: [[0,13513.69,'m³'],[1,36238.05,'m³'],[2,2863.94,'m³'],[3,5521.64,'m³'],[4,5990.65,'m³'],[5,1629.88,'m³'],[6,5535.55,'m³'],[7,15660.42,'m³'],[8,10962.12,'m³'],[9,3074.76,'m³'],[10,2850.03,'m³'],[11,10849.75,'m³'],],
+},{
+name: '削减率',
+type: 'bar',
+data: [[0,81.98,'%'],[1,77.13,'%'],[2,77.45,'%'],[3,79.25,'%'],[4,81.99,'%'],[5,80.75,'%'],[6,79.66,'%'],[7,80.96,'%'],[8,85.02,'%'],[9,81.17,'%'],[10,81.15,'%'],[11,82.06,'%'],],
+yAxisIndex:1
+},]
+};
+// 使用刚指定的配置项和数据显示图表。
+myChart_auto_chart_3.setOption(option);
+</script>

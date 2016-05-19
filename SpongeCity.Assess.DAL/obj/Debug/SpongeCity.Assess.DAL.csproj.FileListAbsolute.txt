@@ -1,0 +1,20 @@
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.DAL\bin\Debug\SpongeCity.Assess.DAL.dll.config
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.DAL\bin\Debug\SpongeCity.Assess.DAL.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.DAL\bin\Debug\SpongeCity.Assess.DAL.pdb
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.DAL\bin\Debug\EntityFramework.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.DAL\bin\Debug\EntityFramework.xml
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.DAL\obj\Debug\SpongeCity.Assess.DAL.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.DAL\obj\Debug\SpongeCity.Assess.DAL.pdb
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\SpongeCity.Assess.DAL\obj\Debug\SpongeCity.Assess.DAL.csprojResolveAssemblyReference.cache
+C:\SpongeCity-Assess\SpongeCity.Assess.DAL\bin\Debug\SpongeCity.Assess.DAL.dll.config
+C:\SpongeCity-Assess\SpongeCity.Assess.DAL\bin\Debug\SpongeCity.Assess.DAL.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.DAL\bin\Debug\SpongeCity.Assess.DAL.pdb
+C:\SpongeCity-Assess\SpongeCity.Assess.DAL\bin\Debug\EntityFramework.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.DAL\bin\Debug\EntityFramework.xml
+C:\SpongeCity-Assess\SpongeCity.Assess.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\SpongeCity-Assess\SpongeCity.Assess.DAL\obj\Debug\SpongeCity.Assess.DAL.csprojResolveAssemblyReference.cache
+C:\SpongeCity-Assess\SpongeCity.Assess.DAL\obj\Debug\SpongeCity.Assess.DAL.dll
+C:\SpongeCity-Assess\SpongeCity.Assess.DAL\obj\Debug\SpongeCity.Assess.DAL.pdb

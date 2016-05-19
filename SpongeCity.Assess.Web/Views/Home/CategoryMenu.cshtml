@@ -1,0 +1,21 @@
+﻿@model List<SpongeCityAsses.Model.CategoryModel>
+<div class="nav">
+    <ul id="cateUl">
+        @foreach (var item in Model)
+        {
+            if (!item.IsShow)
+            {
+                continue;
+            }
+            if (item.IsDefault)
+            {
+                <li id="categoryId_@item.ID" class="active"><a href="#categoryId=@item.ID">@item.DisplayName</a></li>
+            }
+            else
+            {
+                <li id="categoryId_@item.ID"><a href="#categoryId=@item.ID">@item.DisplayName</a></li>
+            }
+        }
+    </ul>
+</div>
+

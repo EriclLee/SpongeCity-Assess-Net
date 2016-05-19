@@ -1,0 +1,28 @@
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\SpongeCity.Asses.BLL\bin\Debug\SpongeCity.Asses.BLL.dll.config
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\SpongeCity.Asses.BLL\bin\Debug\SpongeCity.Asses.BLL.dll
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\SpongeCity.Asses.BLL\bin\Debug\SpongeCity.Asses.BLL.pdb
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\SpongeCity.Asses.BLL\bin\Debug\EntityFramework.dll
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\SpongeCity.Asses.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\SpongeCity.Asses.BLL\bin\Debug\SpongeCity.Assess.DAL.dll
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\SpongeCity.Asses.BLL\bin\Debug\SpongeCityAsses.Model.dll
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\SpongeCity.Asses.BLL\bin\Debug\SpongeCity.Assess.DAL.pdb
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\SpongeCity.Asses.BLL\bin\Debug\SpongeCityAsses.Model.pdb
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\SpongeCity.Asses.BLL\bin\Debug\EntityFramework.xml
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\SpongeCity.Asses.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\SpongeCity.Asses.BLL\obj\Debug\SpongeCity.Asses.BLL.csprojResolveAssemblyReference.cache
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\SpongeCity.Asses.BLL\obj\Debug\SpongeCity.Asses.BLL.dll
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\SpongeCity.Asses.BLL\obj\Debug\SpongeCity.Asses.BLL.pdb
+C:\SpongeCity-Assess\SpongeCity.Asses.BLL\bin\Debug\SpongeCity.Asses.BLL.dll.config
+C:\SpongeCity-Assess\SpongeCity.Asses.BLL\bin\Debug\SpongeCity.Asses.BLL.dll
+C:\SpongeCity-Assess\SpongeCity.Asses.BLL\bin\Debug\SpongeCity.Asses.BLL.pdb
+C:\SpongeCity-Assess\SpongeCity.Asses.BLL\bin\Debug\EntityFramework.dll
+C:\SpongeCity-Assess\SpongeCity.Asses.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\SpongeCity-Assess\SpongeCity.Asses.BLL\bin\Debug\SpongeCity.Assess.DAL.dll
+C:\SpongeCity-Assess\SpongeCity.Asses.BLL\bin\Debug\SpongeCityAsses.Model.dll
+C:\SpongeCity-Assess\SpongeCity.Asses.BLL\bin\Debug\SpongeCity.Assess.DAL.pdb
+C:\SpongeCity-Assess\SpongeCity.Asses.BLL\bin\Debug\SpongeCityAsses.Model.pdb
+C:\SpongeCity-Assess\SpongeCity.Asses.BLL\bin\Debug\EntityFramework.xml
+C:\SpongeCity-Assess\SpongeCity.Asses.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\SpongeCity-Assess\SpongeCity.Asses.BLL\obj\Debug\SpongeCity.Asses.BLL.csprojResolveAssemblyReference.cache
+C:\SpongeCity-Assess\SpongeCity.Asses.BLL\obj\Debug\SpongeCity.Asses.BLL.dll
+C:\SpongeCity-Assess\SpongeCity.Asses.BLL\obj\Debug\SpongeCity.Asses.BLL.pdb

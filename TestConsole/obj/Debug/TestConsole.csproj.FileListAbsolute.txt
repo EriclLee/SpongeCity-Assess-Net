@@ -1,0 +1,32 @@
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\TestConsole\bin\Debug\TestConsole.exe.config
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\TestConsole\bin\Debug\TestConsole.exe
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\TestConsole\bin\Debug\TestConsole.pdb
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\TestConsole\bin\Debug\EntityFramework.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\TestConsole\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\TestConsole\bin\Debug\SpongeCity.Assess.DAL.dll
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\TestConsole\bin\Debug\SpongeCity.Assess.DAL.pdb
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\TestConsole\bin\Debug\EntityFramework.xml
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\TestConsole\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\TestConsole\obj\Debug\TestConsole.exe
+c:\users\v-zoli\documents\visual studio 2015\Projects\SpongeCity-Assess\TestConsole\obj\Debug\TestConsole.pdb
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\TestConsole\bin\Debug\SpongeCity.Asses.BLL.dll
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\TestConsole\bin\Debug\SpongeCityAsses.Model.dll
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\TestConsole\bin\Debug\SpongeCity.Asses.BLL.pdb
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\TestConsole\bin\Debug\SpongeCityAsses.Model.pdb
+C:\SpongeCity-Assess\TestConsole\bin\Debug\TestConsole.exe.config
+C:\SpongeCity-Assess\TestConsole\bin\Debug\TestConsole.exe
+C:\SpongeCity-Assess\TestConsole\bin\Debug\TestConsole.pdb
+C:\SpongeCity-Assess\TestConsole\bin\Debug\EntityFramework.dll
+C:\SpongeCity-Assess\TestConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\SpongeCity-Assess\TestConsole\bin\Debug\SpongeCity.Asses.BLL.dll
+C:\SpongeCity-Assess\TestConsole\bin\Debug\SpongeCity.Assess.DAL.dll
+C:\SpongeCity-Assess\TestConsole\bin\Debug\SpongeCityAsses.Model.dll
+C:\SpongeCity-Assess\TestConsole\bin\Debug\SpongeCity.Asses.BLL.pdb
+C:\SpongeCity-Assess\TestConsole\bin\Debug\SpongeCity.Assess.DAL.pdb
+C:\SpongeCity-Assess\TestConsole\bin\Debug\SpongeCityAsses.Model.pdb
+C:\SpongeCity-Assess\TestConsole\bin\Debug\EntityFramework.xml
+C:\SpongeCity-Assess\TestConsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\SpongeCity-Assess\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+C:\SpongeCity-Assess\TestConsole\obj\Debug\TestConsole.exe
+C:\SpongeCity-Assess\TestConsole\obj\Debug\TestConsole.pdb

@@ -1,0 +1,64 @@
+﻿<div id="auto_chart_1" style="width: 100%; height: 270px; position: relative; background-color: transparent;" _echarts_instance_="ec_1463499079892">
+    
+</div>
+<script type="text/javascript">
+        // 基于准备好的dom，初始化echarts实例
+        myChart_auto_chart_1 = echarts.init(document.getElementById('auto_chart_1'));
+
+        // 指定图表的配置项和数据
+        var option = {
+    title : {
+        text : ' ',
+    },
+    tooltip : {
+        trigger: 'axis',
+        formatter : function (params) {
+            if(params[0]==null){
+                return (params.data[0].cast);
+            }
+			output = params[0].name + '<br/>';
+			for(var i=0;i<params.length;i++){
+	 			output += params[i].seriesName + " : " + params[i].value[1] + params[i].value[2] +'<br/>';
+	 		}
+			return output;
+        }
+    },
+    dataZoom: {
+        show: true,
+        start : 0,
+        orient : 'horizontal'
+    },
+    legend : {
+        data : ['径流控制率',],
+        top : 20 ,
+
+    },
+    xAxis : [
+        {
+            type : 'category',
+            data : ['2015/04/01','2015/08/02','2015/08/13','2015/08/25','2015/09/03','2015/09/04','2015/09/09','2015/09/10','2015/09/11','2016/02/01','2016/04/05','2016/04/15',],
+
+        },
+    ],
+    yAxis : [
+        {
+            type : 'value' ,
+            name : '径流控制率(%)' ,
+            axisLabel: {
+            	formatter : '{value} '
+            },
+
+        },
+
+    ],
+    series : [{
+            name: '径流控制率',
+            type: 'bar',
+            data: [[0,81.98,'%'],[1,77.13,'%'],[2,77.45,'%'],[3,79.25,'%'],[4,81.99,'%'],[5,80.75,'%'],[6,79.66,'%'],[7,80.96,'%'],[8,85.02,'%'],[9,81.17,'%'],[10,81.15,'%'],[11,82.06,'%'],],
+        },]
+};
+
+
+        // 使用刚指定的配置项和数据显示图表。
+        myChart_auto_chart_1.setOption(option);
+</script>

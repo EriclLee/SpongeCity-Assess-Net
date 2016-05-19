@@ -1,0 +1,25 @@
+﻿@model List<SpongeCityAsses.Model.KPIModel>
+<div class="nav">
+    @if (Model.Count > 0)
+    {
+        <ul id="kpiUl">
+            <li class="level-1">海绵城市考核指标<div class="array"></div></li>
+            @foreach (var item in Model)
+            {
+                if (!item.IsShow)
+                {
+                    continue;
+                }
+                if (item.IsDefault)
+                {
+                    <li id="kpiId_@item.ID" class="level-2 active"><a class="active" href="#categoryId=@item.CategoryId&kpiId=@item.ID">@item.DisplayName</a></li>
+                }
+                else
+                {
+                    <li id="kpiId_@item.ID" class="level-2"><a href="#categoryId=@item.CategoryId&kpiId=@item.ID">@item.DisplayName</a></li>
+                }
+            }
+        </ul>
+    }
+</div>
+

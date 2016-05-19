@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" type="text/css" href="~/Content/sptheme/css/layout.css" />
+    <link rel="stylesheet" type="text/css" href="~/Content/sptheme/css/cssreset-min.css" />
+    <link rel="stylesheet" type="text/css" href="~/Content/sptheme/css/index.css" />
+    <link rel="stylesheet" type="text/css" href="~/Content/tchart.css" />
+    <link rel="stylesheet" type="text/css" href="~/Content/bootstrap.css" />
+    @*<link rel="stylesheet" type="text/css" href="~/Content/sptheme/css/print.css" />*@
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryui")
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/modernizr")
+    <script type="text/javascript" src="~/Scripts/jquery.pjax.js"></script>
+    <script type="text/javascript" src="~/Scripts/jquery.pager.js"></script>
+    <script type="text/javascript" src="~/Scripts/assess.js"></script>
+    <script type="text/javascript" src="~/Scripts/echarts.min.js"></script>
+    <script type="text/javascript" src="~/Scripts/bootstrap.js"></script>
+</head>
+<body class="">
+    <div id="page-wrapper">
+        <div id="page">
+            <div class="header">
+                <h3>陕西西咸海绵城市考核评估平台</h3>
+            </div>
+            <div class="main">
+                <div class="left">
+                    <div class="leftimg">
+                        <span>2016年05月17日 星期二</span>
+                    </div>
+                    <div class="column sidebar" id="sidebar-first">
+                        <div class="section">
+                            <div class="region region-sidebar-first">
+                                <div class="block block-tchart" id="block-tchart-side-navigation">
+                                    <div class="content">
+                                        <div id="kpiDiv"></div>
+                                        <div id="subcategoryDiv"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="right">
+                    <div id="featured">
+                        <div class="region region-featured">
+                            <div class="block block-tchart" id="block-tchart-top-navigation">
+                                <div id="categoryMenuDiv" class="content">
+                                    @{Html.RenderAction("CategoryMenu", "Home");}
+                                </div>
+                            </div>
+                            <div class="block block-tchart" id="block-tchart-top-secondary-navigation">
+                                <div id="viewMenuDiv" class="content"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="pageViewDiv">
+                        @RenderBody()
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

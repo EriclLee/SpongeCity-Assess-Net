@@ -1,0 +1,77 @@
+﻿
+<div id="auto_chart_0" style="width: 100%; height: 270px; position: relative; background-color: transparent;" _echarts_instance_="ec_1463499079891"></div>
+<script type="text/javascript">
+// 基于准备好的dom，初始化echarts实例
+myChart_auto_chart_0 = echarts.init(document.getElementById('auto_chart_0'));
+
+// 指定图表的配置项和数据
+var option = {
+title : {
+text : ' ',
+},
+tooltip : {
+trigger: 'axis',
+formatter : function (params) {
+if(params[0]==null){
+return (params.data[0].cast);
+}
+output = params[0].name + '<br/>';
+for(var i=0;i<params.length;i++){
+output += params[i].seriesName + " : " + params[i].value[1] + params[i].value[2] +'<br/>';
+}
+return output;
+}
+},
+dataZoom: {
+show: true,
+start : 0,
+orient : 'horizontal'
+},
+legend : {
+data : ['流量','降雨量',],
+top : 20 ,
+
+},
+xAxis : [
+{
+type : 'category',
+data : ['2015/04/01','2015/08/02','2015/08/13','2015/08/25','2015/09/03','2015/09/04','2015/09/09','2015/09/10','2015/09/11','2016/02/01','2016/04/05','2016/04/15',],
+
+},
+],
+yAxis : [
+{
+type : 'value' ,
+name : '流量(m³/s)' ,
+axisLabel: {
+formatter : '{value} '
+},
+
+},
+{ type : 'value' ,
+name : '降雨量(mm)' ,
+min : 0,
+axisLabel: {
+formatter : '{value}  '
+},
+nameLocation : 'start',
+inverse:true,
+},
+],
+series : [{
+name: '流量',
+type: 'bar',
+data: [[0,2.36,'m³/s'],[1,2.84,'m³/s'],[2,7.06,'m³/s'],[3,1.93,'m³/s'],[4,1.54,'m³/s'],[5,1.18,'m³/s'],[6,1.3,'m³/s'],[7,0.96,'m³/s'],[8,1.27,'m³/s'],[9,3.02,'m³/s'],[10,0.84,'m³/s'],[11,1.53,'m³/s'],],
+},{
+name: '降雨量',
+type: 'bar',
+data: [[0,24.8,'mm'],[1,52.4,'mm'],[2,4.2,'mm'],[3,8.8,'mm'],[4,11,'mm'],[5,2.8,'mm'],[6,9,'mm'],[7,27.2,'mm'],[8,24.2,'mm'],[9,5.4,'mm'],[10,5,'mm'],[11,20,'mm'],],
+yAxisIndex:1
+},]
+};
+
+
+// 使用刚指定的配置项和数据显示图表。
+myChart_auto_chart_0.setOption(option);
+</script>
+                

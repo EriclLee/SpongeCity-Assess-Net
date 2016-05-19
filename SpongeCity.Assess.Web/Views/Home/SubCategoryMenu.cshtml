@@ -1,0 +1,58 @@
+﻿@model List<SpongeCityAsses.Model.SubCategoryModel>
+<div class="nav">
+    @if (Model.Count > 0)
+    {
+        <ul id="subCateUl">
+            <li class="level-1">考核区域<div class="array"></div></li>
+            @foreach (var item in Model)
+            {
+                if (!item.IsShow)
+                {
+                    continue;
+                }
+                if (item.IsDefault)
+                {
+                    <li id="subCategoryId_@item.ID" class="subCategoryId_@item.ID level-2 active"><a class="active" 
+                                href="#categoryId=@item.View.KPI.Category.ID&kpiId=@item.View.KPI.ID&viewId=@item.ViewId&subCategoryId=@item.ID">@item.DisplayName</a></li>
+                }
+                else
+                {
+                    <li id="subCategoryId_@item.ID" class="subCategoryId_@item.ID level-2">
+                        <a href="#categoryId=@item.View.KPI.Category.ID&kpiId=@item.View.KPI.ID&viewId=@item.ViewId&subCategoryId=@item.ID">@item.DisplayName</a>
+                    </li>
+                }
+                foreach (var subItem in item.SubCategorys)
+                {
+                    if (!subItem.IsShow)
+                    {
+                        continue;
+                    }
+                    if (item.IsDefault && subItem.IsDefault)
+                    {
+                        <li id="subCategoryId_@subItem.ID" class="subCategoryId_@item.ID level-3 active">
+                            <a href="#categoryId=@subItem.View.KPI.Category.ID&kpiId=@subItem.View.KPI.ID&viewId=@subItem.ViewId&subCategoryId=@subItem.ID">@subItem.DisplayName</a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li id="subCategoryId_@subItem.ID" class="subCategoryId_@item.ID level-3">
+                            <a href="#categoryId=@subItem.View.KPI.Category.ID&kpiId=@subItem.View.KPI.ID&viewId=@subItem.ViewId&subCategoryId=@subItem.ID">@subItem.DisplayName</a>
+                        </li>
+                    }
+                    foreach (var subItem2 in subItem.SubCategorys)
+                    {
+                        if (!subItem2.IsShow)
+                        {
+                            continue;
+                        }
+                        <li id="subCategoryId_@subItem2.ID" class="subCategoryId_@item.ID subCategoryId_@subItem.ID level-4">
+                            <a href="#categoryId=@subItem2.View.KPI.Category.ID&kpiId=@subItem2.View.KPI.ID&viewId=@subItem2.ViewId&subCategoryId=@subItem2.ID">@subItem2.DisplayName</a>
+                        </li>
+                    }
+                }
+            }
+        </ul>
+    }
+</div>
+
+

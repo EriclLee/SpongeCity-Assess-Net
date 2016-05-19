@@ -1,0 +1,22 @@
+﻿@model List<SpongeCityAsses.Model.ViewModel>
+@if (Model.Count > 0)
+{
+    <div class="switch-btn">
+        @foreach (var item in Model)
+        {
+            if (!item.IsShow)
+            {
+                continue;
+            }
+            if (item.IsDefault)
+            {
+                <button id="viewId_@item.ID" class="active" onclick="window.location.href = '#categoryId=@item.KPI.CategoryId&kpiId=@item.KpiId&viewId=@item.ID';">@item.DisplayName</button>
+            }
+            else
+            {
+                <button id="viewId_@item.ID" onclick="window.location.href = '#categoryId=@item.KPI.CategoryId&kpiId=@item.KpiId&viewId=@item.ID';">@item.DisplayName</button>
+            }
+        }
+    </div>
+}
+

@@ -1,0 +1,34 @@
+/*.side-nav li.active a{*/
+/*color: #000000;*/
+/*}*/
+/*.top-nav li.active a{*/
+/*color: #000000;*/
+/*}*/
+
+/*.top-nav {list-style: none;margin: 0px;padding: 0px;}*/
+/*.top-nav li {display:inline;margin: 0px 20px 10px 0px;}*/
+
+/*#featured div{*/
+/*background: #6f9dbd;*/
+/*}*/
+/*.featured #main-menu-links li.active {*/
+/*background: #f0f0f0;*/
+/*background: rgba(240, 240, 240, 1.0);*/
+/*}*/
+
+a {
+    text-transform: none;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none
+}
+a:link {color: #7c7c7c}
+a:visited {color: #7c7c7c}
+a:hover {color: #7c7c7c}
+a:active {color: #7c7c7c}
+
+.subCataHidden {
+    display:none;
+}

@@ -1,0 +1,10 @@
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\SpongeCityAsses.Model\bin\Debug\SpongeCityAsses.Model.dll
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\SpongeCityAsses.Model\bin\Debug\SpongeCityAsses.Model.pdb
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\SpongeCityAsses.Model\obj\Debug\SpongeCityAsses.Model.csprojResolveAssemblyReference.cache
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\SpongeCityAsses.Model\obj\Debug\SpongeCityAsses.Model.dll
+C:\Users\v-zoli\Documents\Visual Studio 2015\Projects\SpongeCity-Assess\SpongeCityAsses.Model\obj\Debug\SpongeCityAsses.Model.pdb
+C:\SpongeCity-Assess\SpongeCityAsses.Model\bin\Debug\SpongeCityAsses.Model.dll
+C:\SpongeCity-Assess\SpongeCityAsses.Model\bin\Debug\SpongeCityAsses.Model.pdb
+C:\SpongeCity-Assess\SpongeCityAsses.Model\obj\Debug\SpongeCityAsses.Model.csprojResolveAssemblyReference.cache
+C:\SpongeCity-Assess\SpongeCityAsses.Model\obj\Debug\SpongeCityAsses.Model.dll
+C:\SpongeCity-Assess\SpongeCityAsses.Model\obj\Debug\SpongeCityAsses.Model.pdb

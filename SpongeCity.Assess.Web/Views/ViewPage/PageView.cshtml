@@ -1,0 +1,23 @@
+﻿@model SpongeCityAsses.Model.ViewModel
+<div class="column" id="content" style="width: 100%;">
+    <div class="section">
+        <a id="main-content"></a>
+        <div class="tabs">
+        </div>
+        <div class="region region-content">
+            <div class="block block-system" id="block-system-main">
+                <div id="activityDiv" class="content">
+                    <div class="row">
+                        @foreach (var item in Model.Activities)
+                        {
+                            <div class="col-md-@item.Col_md_Count">
+                                @{Html.RenderAction(item.Action, item.Route);}
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
